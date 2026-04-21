@@ -1,0 +1,1 @@
+A customer reports that their weekly analytics export has failed for the third time this month. They receive a timeout error after about two minutes, and the report is needed for a board meeting tomorrow morning.

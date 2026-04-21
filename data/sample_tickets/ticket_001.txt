@@ -1,0 +1,1 @@
+A customer reports that after a password reset, several finance users cannot access the portal through SSO. The issue started this morning and affects multiple users. They need access before payroll processing this afternoon.
