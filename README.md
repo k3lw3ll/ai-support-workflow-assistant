@@ -1,10 +1,8 @@
-# AI Support Workflow Assistant
+AI Support Workflow Assistant
 
 A lightweight, multi-step AI workflow system that processes support tickets into structured, actionable outputs using LLM orchestration.
 
----
-
-## Overview
+Overview
 
 Support and operations teams often spend significant time triaging incoming issues, identifying priorities, and drafting responses.
 
@@ -12,18 +10,14 @@ This project demonstrates how large language models can be orchestrated into a r
 
 Instead of a single prompt, this system uses a modular pipeline to:
 
-- Summarize incoming requests  
-- Classify category and priority  
-- Recommend next actions  
-- Generate a customer-ready response  
+Summarize incoming requests
+Classify category and priority
+Recommend next actions
+Generate a customer-ready response
 
 The result is a structured JSON output suitable for automation, integration, or downstream systems.
 
----
-
-## Example Output
-
-```json
+Example Output
 {
   "summary": "A customer is experiencing repeated failures of their weekly analytics export...",
   "category": "Analytics Export",
